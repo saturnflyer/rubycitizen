@@ -1,0 +1,15 @@
+/* Custom CSS for your KeyDown presentation here */
+body { font-size: 22pt;}
+.presentation { background: #333;}
+#presentation-counter, .slides .slide:nth-child(1), .slide .counter { display: none;}
+
+.shout h1 { font-size: 800%;}
+h1 { font-size: 200%;}
+span.small { font-size: 20%;}
+section, h2 { color: #fff;}
+section > * { margin-left: 20px; margin-right: 20px;}
+.slide { background-color: #000; background-image: none; color: #fff;}
+li { margin: 0.5em 0;}
+ul { margin: 2em;}
+
+strong { color: #ff0;}
