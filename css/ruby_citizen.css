@@ -11,5 +11,6 @@ section > * { margin-left: 20px; margin-right: 20px;}
 .slide { background-color: #000; background-image: none; color: #fff;}
 li { margin: 0.5em 0;}
 ul { margin: 2em;}
+.notes { font-size: 18pt; font-style: italic; color: #777; }
 
 strong { color: #ff0;}

@@ -33,7 +33,7 @@ Lord of the Flies reference.
 7. Create the patch
 8. Submit patch
 
-[http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/](http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/)
+<a href="http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/" class="notes">http://drnicwilliams.com/2007/06/01/8-steps-for-fixing-other-peoples-code/</a>
 
 !SLIDE middle
 
