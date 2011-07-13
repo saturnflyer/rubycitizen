@@ -60,13 +60,15 @@ Lord of the Flies reference.
 5. Publish your code & submit your patch
 6. **Pray for acceptance...**
 
-!SLIDE middle
-
-# There's more than just mechanics!
+!SLIDE
 
 !SLIDE middle
 
 # _How do I know where to start!?_
+
+!SLIDE middle
+
+# There's more than just mechanics!
 
 !SLIDE middle
 
@@ -92,7 +94,7 @@ Lord of the Flies reference.
 
 !SLIDE middle
 
-# But first, get familiar
+# First, get familiar
 
 !SLIDE
 
@@ -157,6 +159,10 @@ Lord of the Flies reference.
 !SLIDE middle
 
 # Advocate for mutual benefit
+
+!SLIDE middle
+
+## Make **small** commits and leave **descriptive** comments
 
 !SLIDE
 
