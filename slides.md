@@ -141,9 +141,59 @@ Lord of the Flies reference.
 
 # Don't ask for permission
 
+!SLIDE middle
+
+# Story time
+
+!SLIDE middle
+
+# @chriseppstein
+
+!SLIDE middle
+
+# _Anyone wanna try their hand at integrating sass logging in sass-rails?_
+
+!SLIDE middle
+
+## _Get annoyed by a defect or missing feature_
+# Sass::Rails doesn't use Rails.logger
+
+!SLIDE middle
+
+## _Find & checkout the source_
+# Hey Github!
+
+!SLIDE middle
+
+## _Create a branch & write a failing test_
+# Forked! Tested!
+
+!SLIDE middle
+
+## _Write code to pass your test & commit_
+# Ok, done.
+
+!SLIDE middle
+
+## _Publish your code & submit your patch_
+# git push
+
+!SLIDE middle
+
+## _Pray for acceptance..._
+# Shit... It wasn't accepted
+
+!SLIDE middle
+
+# What?! But I _prayed_
+
+!SLIDE middle
+
+# It's OK, it got accepted the second time around.
+
 !SLIDE
 
-## Find commits from other forks. 
+## Find commits from other forks.
 
 * Read other people's code
 * Comment on them
